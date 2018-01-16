@@ -1,6 +1,7 @@
 import React from 'react';
 import $ from 'jquery';
 import {API_ROOT} from "../constants";
+import { Link } from 'react-router-dom'
 // export class Register extends React.Component{
 //     render(){
 //         return (
@@ -129,7 +130,9 @@ class RegistrationForm extends React.Component {
 
                 <FormItem {...tailFormItemLayout}>
                     <Button type="primary" htmlType="submit">Register</Button>
+                    <p>I already have an account, go back to <Link to="/login">login</Link></p>
                 </FormItem>
+
             </Form>
         );
     }
