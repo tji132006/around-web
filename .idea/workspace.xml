@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="052259ae-5b74-4c81-bfbc-316459631504" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/CreateButtonForm.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/components/CreatePostButton.js" afterPath="$PROJECT_DIR$/src/components/CreatePostButton.js" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateButtonForm.js" afterPath="$PROJECT_DIR$/src/components/CreateButtonForm.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,8 +48,8 @@
       <file leaf-file-name="CreateButtonForm.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/CreateButtonForm.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="201">
+              <caret line="36" column="49" lean-forward="false" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -363,12 +361,12 @@
       <workItem from="1515640058445" duration="7912000" />
       <workItem from="1516071806829" duration="14732000" />
       <workItem from="1516244153049" duration="10731000" />
-      <workItem from="1516676960789" duration="2788000" />
+      <workItem from="1516676960789" duration="3690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36192000" />
+    <option name="totallyTimeSpent" value="37094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1593" y="0" width="1039" height="1047" extended-state="0" />
@@ -825,8 +823,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CreateButtonForm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="201">
+          <caret line="36" column="49" lean-forward="false" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
