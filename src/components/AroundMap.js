@@ -39,6 +39,7 @@ class AroundMap extends React.Component{
                 defaultCenter={{ lat: lat, lng: lon }}
                 onDragEnd = {this.reloadMarkers}
                 onZoomChanged = {this.reloadMarkers}
+                defaultOptions = {{scaleControl: true}}
             >
                 {
                     this.props.posts ? this.props.posts.map((post) =>
