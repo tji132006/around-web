@@ -1,3 +1,9 @@
+.App-header{
+    background-color: cornsilk !important;
+}
+.App-title{
+    color: #1890ff !important;
+}
 .logout{
     float: right;
     padding-top: 20px;
